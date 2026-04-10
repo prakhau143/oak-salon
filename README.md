@@ -6,7 +6,7 @@ Welcome to the Oak Salon website project! This is a modern, responsive, and visu
 
 ## 🚀 Key Features
 
-*   **Interactive Hero Slider:** Engaging full-width slider with navigation controls and call-to-action buttons.
+*   **Interactive Hero Slider:** Engaging full-width slider with navigation controls and call-to-action buttons.                                         
 *   **Services Showcase:** Clearly presents the salon's offerings.
 *   **Meet Our Specialists:** Introduces the salon's team members.
 *   **Image Gallery:** A filterable gallery to display salon work, ambiance, or products.
