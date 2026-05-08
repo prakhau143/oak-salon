@@ -8,7 +8,7 @@ Welcome to the Oak Salon website project! This is a modern, responsive, and visu
 
 *   **Interactive Hero Slider:** Engaging full-width slider with navigation controls and call-to-action buttons.                                         
 *   **Services Showcase:** Clearly presents the salon's offerings.
-*   **Meet Our Specialists:** Introduces the salon's team members.
+*   **Meet Our Specialists:** Introduces the salon's team members.           
 *   **Image Gallery:** A filterable gallery to display salon work, ambiance, or products.
 *   **Video Integration:** Embedded YouTube video with a custom GIF preview and countdown timer.
 *   **Appointment Section:** Information and call-to-action for booking appointments, integrated with Google Maps.
