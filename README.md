@@ -16,7 +16,7 @@ Welcome to the Oak Salon website project! This is a modern, responsive, and visu
 *   **Responsive Design:** Fully responsive layout ensuring a seamless experience across desktops, tablets, and mobile devices.
 *   **Smooth Scrolling:** Elegant navigation to different sections of the page.
 *   **Dynamic Content:** JavaScript-powered interactions for the slider, gallery filters, mobile menu, and video loading.
-
+    
 ## 🛠️ Technologies Used
 
 *   **HTML5:** For the structure and content of the website.
