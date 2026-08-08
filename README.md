@@ -4,7 +4,7 @@
         
 Welcome to the Oak Salon website project! This is a modern, responsive, and visually appealing front-end website designed for a luxury salon. It showcases the salon's services, specialists, gallery, and provides an easy way for users to get in touch or make appointments. The design focuses on a warm, elegant aesthetic to reflect the salon's brand.       
         
-## 🚀 Key Features            
+## 🚀 Key Features                  
                           
 *   **Interactive Hero Slider:** Engaging full-width slider with navigation controls and call-to-action buttons.                                         
 *   **Services Showcase:** Clearly presents the salon's offerings.           
