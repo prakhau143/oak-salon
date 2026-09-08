@@ -60,7 +60,7 @@ To run this project locally, follow these steps:
 
 4.  **Open in browser:**
     Open your web browser and navigate to the address provided by your local server (e.g., `http://localhost:8000` or the address Live Server opens).
-
+M8h6W#ta5ZB&3SYP
 ## 📁 Folder Structure
 
 ```
