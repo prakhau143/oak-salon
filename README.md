@@ -14,7 +14,7 @@ Welcome to the Oak Salon website project! This is a modern, responsive, and visu
 *   **Appointment Section:** Information and call-to-action for booking appointments, integrated with Google Maps.      
 *   **Newsletter Subscription:** An interactive form with animation for users to subscribe.      
 *   **Responsive Design:** Fully responsive layout ensuring a seamless experience across desktops, tablets, and mobile devices.
-*   **Smooth Scrolling:** Elegant navigation to different sections of the page.
+*   **Smooth Scrolling:** Elegant navigation to different sections of the page.                                    
 *   **Dynamic Content:** JavaScript-powered interactions for the slider, gallery filters, mobile menu, and video loading.
     
 ## 🛠️ Technologies Used      
